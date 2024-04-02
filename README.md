@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mako Ohara</h1>
 
-- 👀 I’m interested in dynamic art, interacting data and machiene learning with things like anthropology, social constructs, and emotions. 
-- 🌱 I’m currently learning to expand my coding skills and deepen understanding in AI and data sciene. 
+- 👀 I build things. I am interested in dynamic art and mixing AI and data with life through HCI and emotions. I also work on educational digital penetration projects for remote locations.
+- 🌱 I’m currently learning to expand my coding skills and deepen understandings in AI and data science. 
 - 💞️ I’m looking to collaborate on any projects!
 - 📫 How to reach me mako_ohara@uni.minerva.edu
 - 🔭 I’m currently working and studying at [Minerva University](https://www.minerva.edu/)
